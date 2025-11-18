@@ -171,7 +171,7 @@ http://localhost:3000
 
 ## 📌 **8. GitHub Repository Link**
 
-[https://github.com/your-username/restaurant-menu-api]
+[https://github.com/Niyaaaaz/menu-api.git]
 
 ---
 
